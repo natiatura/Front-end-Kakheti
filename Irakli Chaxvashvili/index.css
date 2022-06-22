@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(32, 32, 32);
+}
+.center{
+    margin-top: 40vh;
+    text-align: center;
+    color: #ffff;
+    font-family: "BPG Nino Mtavruli";
+    font-size: 100px;
+    -webkit-user-select: none;
+    
+}
+.center:hover{
+    color: rgb(95, 0, 178);
+    transition: all 0.5s;
+
+}
