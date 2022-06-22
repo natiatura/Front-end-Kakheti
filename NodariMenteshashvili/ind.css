@@ -9,6 +9,7 @@ nav {
 p {
   margin-left: 100px;
   margin-top: 40px;
+  font-weight: bold;
 }
 header {
   display: flex;
@@ -17,6 +18,9 @@ header {
 }
 #satave {
   text-align: center;
+  font-size: 55px;
+  
+  
 }
 #shesavali {
   margin-left: 670px;
@@ -29,6 +33,7 @@ header {
   padding: 10px;
   border: none;
   cursor: pointer;
+  border-radius: 5px;
 }
 
 #login {
@@ -44,15 +49,26 @@ header {
 }
 #register {
   
-  margin-left: 50px; 
+  margin-top: 40px; 
   width: 100px;
-  height: 25px;
-  background-color: palevioletred;
+  height: 35px;
+  background-color: rgb(187, 20, 103);
   color: white;
   border: none;
   cursor: pointer;
-  font-size: 15px;
+  font-size: 25px;
+  border-radius: 5px;
 }
 .gilakuniebi{
   margin-left: 500px;
+}
+.photo{
+  display: flex;
+  justify-content: center;
+}
+.satauri2{
+  display: flex;
+  justify-content: space-between;
+  font-size: 35px;
+  padding-left: 350px; 
 }
