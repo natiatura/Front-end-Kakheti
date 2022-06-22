@@ -1,0 +1,51 @@
+$myColor:#2F2643;
+$myFontSize: 20px;
+
+h2{
+    display: inline;
+    font-weight: bolder;
+}
+.innerbody{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar{
+    width: 80%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: $myColor;
+    font-size: 20px;
+}
+#navbarDropdown{
+    color: $myColor;
+    opacity: 0.8;
+    font-size: $myFontSize;
+}
+.nav-item{
+    font-weight: bold;
+    font-size: $myFontSize;
+    opacity: 0.8;
+    margin-left: 5px;
+    margin-right:5px ;
+}
+.logo {
+  width: 17px;
+  height: 25px;
+  margin-right: 2px;
+  margin-top: -13px;
+}
+.mt{
+    width: 350px;
+}
+#btn{
+    font-weight: bold;
+    font-size: $myFontSize;
+    opacity: 0.8;
+    margin-left: 20px ;
+}
