@@ -1,0 +1,58 @@
+$myColor:#2F2643;
+$myFontSize: 20px;
+//ლოგოს ტექსტი
+h2{
+    display: inline;
+    font-weight: bolder;
+}
+//სანავიგაციოს ყველაზე გლავნი
+.innerbody{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+//გლავნი მეორე ადგილზე
+.navbar{
+    width: 80%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: $myColor;
+    font-size: 20px;
+}
+//პირველი ტექსტი დროპდაუნით
+#navbarDropdown{
+    color: $myColor;
+    opacity: 0.8;
+    font-size: $myFontSize;
+}
+//დანარჩენი ტექსტები
+.nav-item{
+    font-weight: bold;
+    font-size: $myFontSize;
+    opacity: 0.8;
+    margin-left: 5px;
+    margin-right:5px ;
+}
+//ლოგოს ფოტო
+.logo {
+  width: 17px;
+  height: 25px;
+  margin-right: 2px;
+  margin-top: -13px;
+}
+//ცარიელი სივრცე
+.mt{
+    width: 350px;
+}
+//ღილაკი
+#btn{
+    font-weight: bold;
+    font-size: $myFontSize;
+    opacity: 0.8;
+    margin-left: 20px ;
+}
