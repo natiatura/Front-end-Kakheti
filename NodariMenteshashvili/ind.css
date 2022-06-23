@@ -19,12 +19,9 @@ header {
 #satave {
   text-align: center;
   font-size: 55px;
-  
-  
 }
 #shesavali {
   margin-left: 670px;
-
 }
 #gilakuna {
   margin-left: 870px;
@@ -48,8 +45,7 @@ header {
   font-size: 23px;
 }
 #register {
-  
-  margin-top: 40px; 
+  margin-top: 40px;
   width: 100px;
   height: 35px;
   background-color: rgb(187, 20, 103);
@@ -59,16 +55,101 @@ header {
   font-size: 25px;
   border-radius: 5px;
 }
-.gilakuniebi{
+.gilakuniebi {
   margin-left: 500px;
 }
-.photo{
+.photo {
   display: flex;
   justify-content: center;
 }
-.satauri2{
+.satauri2 {
   display: flex;
   justify-content: space-between;
   font-size: 35px;
-  padding-left: 350px; 
+ padding-left: 18%;
+}
+.satauri3 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.article {
+  display: flex;
+  justify-content: space-between;
+  width: 1500px;
+  margin-top: 70px;
+  margin-left: 250px;
+}
+.graph {
+  background-color: rgb(236, 234, 229);
+  width: 350px;
+  height: 150px;
+  font-size: 25px;
+  border-top: 5px solid red;
+}
+#gilakuna3 {
+  margin-left: 900px;
+  margin-top: 60px;
+  background-color: rgb(187, 20, 103);
+  color: lavender;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 25px;
+}
+.satauri4 {
+  font-size: 40px;
+}
+.article2 {
+  display: flex;
+  justify-content: space-between;
+  width: 1800px;
+  margin-top: 150px;
+}
+.subarticle2 {
+  width: 500px;
+  height: 400px;
+}
+.earnmoney {
+  padding-left: 600px;
+}
+.satauri5 {
+  font-size: 27px;
+  color: rgba(0, 0, 0, 0.493);
+}
+.navarocheni {
+  background-color: lightgray;
+  margin-top: 150px;
+}
+.findout {
+  margin-left: 100px;
+}
+.urielamsheshao {
+  display: flex;
+  justify-content: space-between;
+  width: 1800px;
+  height: 400px;
+}
+.subarticle3 {
+  margin-bottom: 500px;
+  padding-left: 5%;
+}
+.urielavwyalio {
+  display: flex;
+  justify-content: space-between;
+  width: 1800px;
+  padding-bottom: 100%;
+}
+.satauri6 {
+  font-size: 40px;
+}
+.satauri7 {
+  font-size: 27px;
+  color: rgba(0, 0, 0, 0.493);
+  display: flex;
+  margin-bottom: 500px;
+}
+.realtime{
+  width: 50%;
 }
