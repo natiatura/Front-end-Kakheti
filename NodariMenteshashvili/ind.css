@@ -99,7 +99,7 @@ header {
   font-size: 25px;
 }
 .satauri4 {
-  font-size: 40px;
+  font-size: 35px;
 }
 .article2 {
   display: flex;
@@ -115,7 +115,7 @@ header {
   padding-left: 600px;
 }
 .satauri5 {
-  font-size: 27px;
+  font-size: 24px;
   color: rgba(0, 0, 0, 0.493);
 }
 .navarocheni {
@@ -133,7 +133,8 @@ header {
 }
 .subarticle3 {
   margin-bottom: 500px;
-  padding-left: 5%;
+  padding-left: 6%;
+ margin-left: 50px;
 }
 .urielavwyalio {
   display: flex;
@@ -142,14 +143,18 @@ header {
   padding-bottom: 100%;
 }
 .satauri6 {
-  font-size: 40px;
+  font-size: 35px;
 }
 .satauri7 {
-  font-size: 27px;
+  font-size: 24px;
   color: rgba(0, 0, 0, 0.493);
   display: flex;
   margin-bottom: 500px;
 }
 .realtime{
-  width: 50%;
+  width: 40%;
+}
+.kalendari{
+  width: 12%;
+  margin-left: 20% ;
 }
